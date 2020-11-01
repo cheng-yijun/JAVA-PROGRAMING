@@ -1,0 +1,13 @@
+computerCenter
+You are the only one working in the computer center, and the mainframe has crashed.  You cannot leave until it is fixed.
+c: winner: 75: 210: you can go home now!
+C: koala: 350: 65: how lovely this koala
+c: tapeTarget: 665: 35: This is where the backup tape needs to be installed.
+d: tape: 490: 45: tapeTarget: Successful, the computer is up and running again! : winner
+c: phone: 700: 470: According to technical support, this is our backup: tape
+c: phoneNoPower: 700: 470: This mobile phone needs a battery.
+d: batteries: 140: 375: phoneNoPower: I can't believe those batteries turn on the phone! : phone
+C: robot: 90: 310: This robot seems to run on batteries... : batteries
+C: manual: 85: 440: This manual says the tape should be here.: tapeTarget
+C: chest: 590: 310: This case seems to be locked...
+D: key: 250: 170: chest: How long has this phone been hidden in this box? : phoneNoPower
