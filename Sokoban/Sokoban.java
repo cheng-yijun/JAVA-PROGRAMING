@@ -5,8 +5,8 @@
 // Semester:         Fall 2018
 //
 // Author:           Yijun Cheng && Yunzikai Chen
-// Email:            cheng229@cs.wisc.edu && ychen857@wisc.edu
-// CS Login:         yijunc && yunzikai
+// Email:            cheng229@cs.wisc.edu
+// CS Login:         yijunc
 // Lecturer's Name:  <cs200>
 // Lab Section:      <321> && <322> 
 //
