@@ -7,7 +7,7 @@
 //
 // Author:           Yijun Cheng
 // Email:            cheng229@cs.wisc.edu
-// CS Login:         yijunc && yunzikai
+// CS Login:         yijunc
 // Lecturer's Name:  <cs200>
 // Lab Section:      <321> && <322> 
 //
